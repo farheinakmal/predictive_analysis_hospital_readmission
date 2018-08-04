@@ -1,0 +1,2 @@
+# predictive_analysis_hospital_readmission
+The project aims at developing predictive machine learning algorithms for analyzing the risk of re-admission in the hospital with-in 30days of discharge. It then aims at comparing and validating the outcomes and results of the predictive model built in this project with the existing models. This different and new model will provide more insights on the various machine learning models.
